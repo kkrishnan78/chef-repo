@@ -1,0 +1,7 @@
+
+
+uvo1589r9v7eg315ze9.vm.cld.sr
+
+
+ssh chef@uvo1589r9v7eg315ze9.vm.cld.sr
+
